@@ -1,16 +1,15 @@
 import React from "react";
+import "../styles/Advice/Advice.css";
 
 const Advice = ({ whatToShow }) => {
-//   console.log(whatToShow);
+  console.log(whatToShow);
   return (
     <div className="adviceBox">
-      
-      {whatToShow[0].advice}
+      {whatToShow === undefined
+        ? "Hurry up and get some advice..."
+        : whatToShow.map((item, index) => <p key={index}>{item.advice}</p>)}
     </div>
   );
 };
 
 export default Advice;
-{/* {whatToShow.map((item, index) => (
-        <p key={index}>{item.advice}</p>
-      ))} */}

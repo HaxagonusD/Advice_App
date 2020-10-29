@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACQA,OAAO,CAAC,+EAAI;ADLZ,AAAA,UAAU,CAAC;EAEP,SAAS,EAAE,GAAG;EACd,WAAW,EAAE,uBAAuB;EACpC,WAAW,EAAE,UAAU;EACvB,QAAQ,EAAE,SAAS;EACnB,UAAU,EAAE,MAAM;EAClB,YAAY,EAAE,MAAM;CACvB",
+    "sources": [
+        "Advice.scss",
+        "../Constants.scss"
+    ],
+    "names": [],
+    "file": "Advice.css"
+}

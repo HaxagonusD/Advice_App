@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACQA,OAAO,CAAC,+EAAI;ADNZ,AAAA,SAAS,CAAC;EACR,WAAW,EAAE,uBAAuB;EACpC,SAAS,EAAE,GAAG;EAId,WAAW,EAAE,UAAU;EACvB,QAAQ,EAAE,UAAU;EACpB,UAAU,EAAE,MAAM;CACnB;;AATD,AAGE,SAHO,CAGP,UAAU,CAAC;EACT,KAAK,ECNA,OAAO;CDOb",
+    "sources": [
+        "About.scss",
+        "../Constants.scss"
+    ],
+    "names": [],
+    "file": "About.css"
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACQA,OAAO,CAAC,+EAAI;ADNZ,AAAA,IAAI,CAAC;EACH,SAAS,EAAE,GAAG;EACd,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,uBAAuB;EAC9C,kBAAkB,EAAE,WAAW;EAE/B,MAAM,EAAE,KAAO;EACf,KAAK,ECNF,OAAO;CDOX;;AACD,AAAA,IAAI,CAAC;EACH,gBAAgB,ECPV,OAAkB;CDQzB",
+    "sources": [
+        "App.scss",
+        "../Constants.scss"
+    ],
+    "names": [],
+    "file": "App.css"
+}

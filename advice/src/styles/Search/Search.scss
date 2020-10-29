@@ -1,0 +1,33 @@
+@import "../Constants.scss";
+
+.searchBox {
+    font-family: 'Quicksand', sans-serif;
+    width: 100%;
+    grid-column: 2 / span 2;
+    grid-row: 2 / span  1;
+    font-size: 3em;
+    input {
+        width: 100%;
+        padding: 1em;
+        border: none;
+        
+    }
+    button{
+        padding: 1em;
+        background-color: $babu;
+        color: white;
+        margin: 2em;
+        border: none;
+    }
+
+    .Search {
+        background-color: $arches;
+        // position: relative;
+        // left: 32em;
+        // bottom: 5.25em;
+        
+    }
+    .Random {
+        margin-left: 0;
+    }
+}

@@ -1,0 +1,14 @@
+@import "../Constants.scss";
+
+.App {
+  font-size: 8px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+
+  height: 50+50vh;
+  color: $hof;
+}
+body {
+  background-color: $white;
+}
